@@ -1,0 +1,4 @@
+counterparty_id,counterparty_name,counterparty_type,counterparty_company_number,counterparty_branch_name,counterparty_jurisdiction,lei_code,city,country,address
+1,Jefferies,,,,English Law,58PU97L1C0WSRCWADL48,UNITED STATES,Wilmington,Corporation Trust Center
+2,ABNAMRO,ABNAMRO,234567,Gustav Mahlerlaan 10,English Law,BFXS5XCH7N0Y05NIXW11,Amsterdam,NETHERLANDS,Gustav Mahlerlaan 10
+3,Wells Fargo,Wells Fargo,345678,Wilmington,New York Law,VYVVCKR63DVZZN70PB21,Wilmington,UNITED STATES,2711 Centerville Road Suite 400 Wilmington
